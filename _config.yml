@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: Nicasio O. Urzo
+subtitle: Architecture, Construction and Engineering Services
+email: nouaces@gmail.com
+description: 'Looking for Spanish-<br />inspired modernism?'
+baseurl: 
+url: https://nouaces.github.com
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 440 St. Paul St., Lakeview Subd., Brgy. Halang
+city: Calamba City
+state: Laguna
+zip_code: 4027
+country: Philippines
+phone: (049) 544-6470
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

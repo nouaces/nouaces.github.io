@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Elements
+title: About Nicasio
+description: 'Over 25 years of architectural excellence'
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 

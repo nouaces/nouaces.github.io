@@ -2,7 +2,7 @@
 title: Our Work
 layout: landing
 description: 'The rocaille tradition and modernism<br />seamlessly blended'
-image: assets/images/pic07.jpg
+image: assets/images/06.png
 nav-menu: true
 ---
 

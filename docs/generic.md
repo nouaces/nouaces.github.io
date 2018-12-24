@@ -2,7 +2,7 @@
 layout: post
 title: Our Services
 description: 'Offering the complete design experience'
-image: assets/images/pic11.jpg
+image: assets/images/02.png
 nav-menu: true
 ---
 

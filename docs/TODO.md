@@ -3,7 +3,7 @@
 * [2018-12-24] Fix images not loading properly in GitHub pages (see https://github.com/olefredrik/FoundationPress/issues/731)
 * [2018-12-24] Add project images to other pages.
 * [2018-12-24] Write descriptions for each project on the Our Work page.
-* [2018-12-24] Change colour scheme.
+* [x] [2019-06-28] Change colour scheme.
 * [2018-12-24] Change favicon to logo and put logo in footer.
 * [2018-12-24] Set up social media links.
 * [2018-12-24] Set up Facebook/IG link.
